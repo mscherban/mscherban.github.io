@@ -50,3 +50,9 @@ ul {
     margin: 0px auto;
     padding-top: 70px;
 }
+
+img {
+    width: 400px;
+    height: auto;
+    image-orientation: from-image;
+}
