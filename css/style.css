@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#header {
+    width: 100%;
+    height: 50px;
+    background-color: #218BB0;
+    margin: 0px auto;
+    position: fixed;
+    top: 0px;
+}
+
+.header_bar {
+    font-family: sans-serif;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.brand {
+    
+}
+
+.left_header_ment {
+    border-right: 2px black solid;
+}
+
+.right_header_ment {
+    border-left: 2px black solid;
+}
+
+ul {
+    font-size: 42px;
+    position: absolute;
+    bottom: 0px;
+    margin: 0px;
+    
+}
+
+.content {
+    width: 960px;
+    height: 1000px;
+    background-color: cadetblue;
+    margin: 0px auto;
+    padding-top: 70px;
+}
