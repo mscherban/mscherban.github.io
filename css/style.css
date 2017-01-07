@@ -42,7 +42,7 @@ a {
 }
 
 .header_item {
-    display: inline-block;
+    display: inline;
     padding: 0px 11px 0px 11px;
 }
 
@@ -62,7 +62,6 @@ a {
 }
 
 ul {
-    list-style-type: none;
 }
 
 img.gal {
