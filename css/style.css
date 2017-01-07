@@ -37,13 +37,19 @@ a {
     text-align: center;
     margin: 0 0 0 -50px;
     width: 100%;
-    top: 5px;
-    font-size: 50px;
+    top: 25%;
+    font-size: 37px;
 }
 
 .header_item {
     display: inline;
     padding: 0px 11px 0px 11px;
+}
+
+.header_cent {
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    padding: 0px 20px 0px 20px;
 }
 
 .content {
@@ -52,7 +58,6 @@ a {
     margin: 0px auto;
     padding-top: 70px;
 }
-
 
 img.gal {
     width: 400px;
