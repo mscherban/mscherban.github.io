@@ -13,6 +13,7 @@ a {
     background-color: #218BB0;
     /*margin: 0px auto;*/
     position: fixed;
+    z-index: 9998;
 
 }
 
@@ -52,6 +53,14 @@ a {
     padding: 0px 20px 0px 20px;
 }
 
+.header_contact {
+    right: 200px;
+    margin: 0px;
+    list-style-type: none;
+    text-align: center;
+    top: 7px;
+}
+
 .content {
     width: 960px;
     height: 1000px;
@@ -62,4 +71,11 @@ a {
 img.gal {
     width: 400px;
     height: auto;
+}
+
+#showcase {
+    width: 100%;
+    height: 400px;
+    opacity: .8;
+    margin: 65px 0px 0px 0px;
 }
